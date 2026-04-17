@@ -1,5 +1,5 @@
 [
-  { "name": "Celeste (Pico 8)", "id": "celeste", "file": "celeste.html" },
+  { "name": "Celeste (Pico 8)", "id": "celeste", "file": "celeste.html", "img": "" },
   { "name": "Ultrakill Prelude", "id": "ultrakill" },
   { "name": "test3", "id": "mfr" }
 ]
