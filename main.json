@@ -1,5 +1,10 @@
 [
   { "name": "Celeste (Pico 8)", "id": "celeste", "file": "celeste.html", "img": "" },
-  { "name": "Ultrakill Prelude", "id": "ultrakill" },
-  { "name": "test3", "id": "mfr" }
+  { "name": "Ultrakill Prelude", "id": "ultrakill", "img":"" },
+  { "name": "My Femboy Roommate", "id": "mfr" },
+   { "name": "1", "id": "1", "img": "png/1.png" },
+   { "name": "10 Minutes Till Dawn", "id": "10-minutes-till-dawn", "img":"gn/png/10-minutes-till-dawn.png" },
+   { "name": "2048", "id": "2048", "img": "png/2048.png" },
+   { "name": "9007199254740992", "id": "9007199254740992" },
+  { "name": "A Dance of Fire And Ice", "id": "a-dance-of-fire-and-ice", "img": "gn/png/a-dance-of-fire-and-ice.png"}
 ]
