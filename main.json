@@ -1,5 +1,5 @@
 [
-  { "name": "test", "url": "https://example.com/1" },
-  { "name": "test2", "url": "https://example.com/2" },
-  { "name": "test3", "url": "https://example.com/3" }
+  { "name": "test", "id": "celeste" },
+  { "name": "test2", "url": "uk" },
+  { "name": "test3", "url": "mfr" }
 ]
