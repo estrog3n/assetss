@@ -1,5 +1,5 @@
 [
   { "name": "test", "id": "celeste" },
-  { "name": "test2", "url": "uk" },
-  { "name": "test3", "url": "mfr" }
+  { "name": "test2", "id": "uk" },
+  { "name": "test3", "id": "mfr" }
 ]
