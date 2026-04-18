@@ -1,6 +1,7 @@
 [
   { "name": "Celeste (Pico 8)", "id": "celeste", "file": "celeste.html", "img": "" },
    { "name": "Traverse", "id": "traverse"},
+  { "name": "Five Nights at Epstein's", "id": "fnae"},
   { "name": "Ultrakill Prelude", "id": "ultrakill", "img":"gn/png/ultrakill.png" },
   { "name": "My Femboy Roommate", "id": "mfr" },
    { "name": "1", "id": "1", "img": "png/1.png" },
