@@ -7,7 +7,7 @@ on:
 
 jobs:
   purge-jsdelivr-cache:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
       - name: Purge all asset files
         uses: egad13/purge-jsdelivr-cache@v1
