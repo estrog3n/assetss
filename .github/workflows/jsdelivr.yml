@@ -1,0 +1,20 @@
+name: purge jsdelivr cache
+
+on:
+  schedule:
+    - cron: '	*/5 * * * *'
+  workflow_dispatch:
+
+jobs:
+  purge-jsdelivr-cache:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Purge all asset files
+        uses: egad13/purge-jsdelivr-cache@v1
+        with:
+          url: |
+            https://cdn.jsdelivr.net/gh/estrog3n/assetss@latest/main.json
+            https://cdn.jsdelivr.net/gh/estrog3n/assetss@main/main.json
+            https://cdn.jsdelivr.net/gh/estrog3n/assetss@latest/ports.json
+            https://cdn.jsdelivr.net/gh/estrog3n/assetss@main/ports.json
+          attempts: 3
