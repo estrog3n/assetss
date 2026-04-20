@@ -11,7 +11,7 @@
    { "name": "10 Minutes Till Dawn", "id": "10-minutes-till-dawn", "img":"gn/png/10-minutes-till-dawn.png" },
    { "name": "2048", "id": "2048", "img": "png/2048.png" },
    { "name": "9007199254740992", "id": "9007199254740992" },
-  { "name": "A Dance of Fire And Ice", "id": "a-dance-of-fire-and-ice", "img": "gn/png/a-dance-of-fire-and-ice.png"},
+  { "name": "A Dance of Fire And Ice (Web Demo)", "id": "a-dance-of-fire-and-ice", "img": "gn/png/a-dance-of-fire-and-ice.png"},
    { "name": "Karlson 2D", "id": "truffledkarlson2d", "img": "webp/karlson2d.webp" },
    { "name": "Karlson (Demo)", "id": "karlson", "img": "gn/png/karlson.png" }
 ]
