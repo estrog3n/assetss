@@ -17,4 +17,7 @@ jobs:
             https://cdn.jsdelivr.net/gh/estrog3n/assetss@main/main.json
             https://cdn.jsdelivr.net/gh/estrog3n/assetss@latest/ports.json
             https://cdn.jsdelivr.net/gh/estrog3n/assetss@main/ports.json
+            https://cdn.jsdelivr.net/gh/isaidgg5/cheesium@main/gay.json
+            https://cdn.jsdelivr.net/gh/isaidgg5/cheesium@latest/gay.json
+            
           attempts: 3
