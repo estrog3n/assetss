@@ -3,678 +3,677 @@
     "name": "Abobo's Big Adventure",
     "id": "flash/abobos-big-adventure",
     "flash": true,
-    "img": "./img/games/ab.jpeg"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/jpeg/ab.jpeg"
   },
   {
     "name": "Apes vs Helium",
     "id": "AVHPort",
     "flash": false,
-    "img": "./img/games/avh.webp"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/webp/avh.webp"
   },
   {
     "name": "Achievement Unlocked",
     "id": "flash/achievement",
     "flash": true,
-    "img": "./img/games/achieve.webp"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/webp/achieve.webp"
   },
   {
     "name": "Achievement Unlocked 2",
     "id": "flash/achievement2",
     "flash": true,
-    "img": "./img/elephant.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/gn/png/achievement-unlocked-2.png"
   },
   {
     "name": "Achievement Unlocked 3",
     "id": "flash/achievement3",
     "flash": true,
-    "img": "./img/games/ach3.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/gn/png/achievement-unlocked-3.png"
   },
   {
     "name": "Bad Ice Cream",
     "id": "flash/bad-ice-cream",
     "flash": true,
-    "img": "./img/games/badicecream.webp"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/gn/png/bad-ice-cream.png"
   },
   {
     "name": "Bad Game",
     "id": "badgame",
     "flash": false,
-    "img": "./img/games/badgame.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/badgame.png"
   },
   {
     "name": "Balatro",
     "id": "balatro",
     "flash": false,
-    "img": "./img/games/bal.webp"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/webp/bal.webp"
   },
   {
     "name": "Bat to the Heavens",
     "id": "bat-to-the-heavens",
     "flash": false,
-    "img": "./img/games/bat.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/bat.png"
   },
   {
     "name": "Big Tower Tiny Square",
     "id": "btts",
     "flash": false,
-    "img": "./img/games/btts.jpg"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/jpg/btts.jpg"
   },
   {
     "name": "Binding of Isaac",
     "id": "flash/BindingOfIsaac",
     "flash": true,
-    "img": "./img/games/isaac.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/isaac.png"
   },
   {
     "name": "Bitburner",
     "id": "bitburner",
     "flash": false,
-    "img": "./img/games/bitburner.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/bitburner.png"
   },
   {
     "name": "Bullet Bill 3",
     "id": "flash/bullet-bill3",
     "flash": true,
-    "img": "./img/games/bullet-bill3.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/bullet-bill3.png"
   },
   {
     "name": "Burrito Bison",
     "id": "flash/burrito-bison",
     "flash": true,
-    "img": "./img/games/burrito.webp"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/webp/burrito.webp"
   },
   {
     "name": "Burrito Bison Revenge",
     "id": "flash/burrito-bison-revenge",
     "flash": true,
-    "img": "./img/games/buritobisonrevenge.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/jpg/burrito-bison-revenge.jpg"
   },
   {
     "name": "Celeste",
     "id": "celeste",
     "flash": false,
-    "img": "./img/games/celeste.webp"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/webp/celeste.webp"
   },
   {
     "name": "Crimson Fantasia",
     "id": "crimsonfantasia",
     "flash": false,
-    "img": "./img/games/crimsonfantasia.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/crimsonfantasia.png"
   },
   {
     "name": "Chuck the Sheep",
     "id": "flash/ChuckTheSheep",
     "flash": true,
-    "img": "./img/games/chuck-thesheep500.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/jpeg/chuck-thesheep.jpeg"
   },
   {
     "name": "Cuphead",
     "id": "cuphead",
     "flash": false,
-    "img": "./img/games/cup.webp",
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/webp/cup.webp",
     "url": "https://cuphead.pages.dev"
   },
   {
     "name": "Cut The Rope",
     "id": "CutTheRope",
     "flash": false,
-    "img": "./img/games/cut1.webp"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/webp/cut1.webp"
   },
   {
     "name": "Doom",
     "id": "doom",
     "flash": false,
-    "img": "./img/games/doom.webp"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/webp/doom.webp"
   },
   {
     "name": "Deltarune",
     "id": "deltarune",
     "flash": false,
-    "img": "./img/games/deltarune.jpg"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/jpg/deltarune.jpg"
   },
   {
     "name": "Duck Life",
     "id": "flash/duck-life",
     "flash": true,
-    "img": "./img/games/duck-life.jpg"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/jpg/duck-life.jpg"
   },
   {
     "name": "Duck Life 2",
     "id": "flash/duck-life2",
     "flash": true,
-    "img": "./img/games/duck2.webp"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/webp/duck2.webp"
   },
   {
     "name": "Duck Life 3",
     "id": "flash/duck-life3",
     "flash": true,
-    "img": "./img/games/duck3.webp"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/webp/duck3.webp"
   },
   {
     "name": "Duck Life 4",
     "id": "flash/duck-life4",
     "flash": true,
-    "img": "./img/games/duck4.webp"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/webp/duck4.webp"
   },
   {
     "name": "Eaglercraft 1.8",
     "id": "eagler1.8",
     "flash": false,
-    "img": "./img/games/eagtek.jpg"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/jpg/eagtek.jpg"
   },
   {
     "name": "Eaglercraft 1.12",
     "id": "eagler1.12",
     "flash": false,
-    "img": "./img/games/eagtek.jpg"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/jpg/eagtek.jpg"
   },
   {
     "name": "Eaglercraft 1.14",
     "id": "eagler1.14",
     "flash": false,
-    "img": "./img/games/eagtek.jpg"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/jpg/eagtek.jpg"
   },
   {
     "name": "Elephant Rave",
     "id": "flash/elephant-rave",
     "flash": true,
-    "img": "./img/elephant.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/elephant-rave2.png"
   },
   {
     "name": "Elephant Rave 2",
     "id": "flash/elephant-rave2",
     "flash": true,
-    "img": "./img/games/elephant-rave2.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/elephant-rave2.png"
   },
   {
     "name": "Epic Combo",
     "id": "flash/epic-combo",
     "flash": true,
-    "img": "./img/games/epic-combo.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/epic-combo.png"
   },
   {
     "name": "Epic Combo Redux",
     "id": "flash/epic-combo-redux",
     "flash": true,
-    "img": "./img/games/epic-combo-redux.jpeg"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/jpeg/epic-combo-redux.jpeg"
   },
   {
     "name": "Factory Balls",
     "id": "flash/factoryballs",
     "flash": true,
-    "img": "./img/games/factoryballs.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/factoryballs.png"
   },
   {
     "name": "Fancy Pants World 1",
     "id": "flash/fancy-pants1",
     "flash": true,
-    "img": "./img/games/fpa1.webp"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/gn/png/fancy-pants-adventure.png"
   },
   {
     "name": "Five Nights at Freddy's",
     "id": "fnaf1",
     "flash": false,
-    "img": "./img/games/splash.webp"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/jpeg/fnaf.jpeg"
   },
   {
     "name": "Five Nights at Freddy's 2",
     "id": "fnaf2",
     "flash": false,
-    "img": "./img/games/fnaf2.webp"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/gn/png/five-nights-at-freddys-2.png"
   },
   {
     "name": "Five Nights at Freddy's 3",
     "id": "fnaf3",
     "flash": false,
-    "img": "./img/games/3f.webp"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/webp/3f.webp"
   },
   {
     "name": "Five Nights at Freddy's 4",
     "id": "fnaf4",
     "flash": false,
-    "img": "./img/games/fnaf4.webp"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/gn/png/five-nights-at-freddys-4.png"
   },
   {
     "name": "Five Nights at Freddy's 4 Halloween",
     "id": "fnaf4-halloween",
     "flash": false,
-    "img": "./img/games/hollowween.webp"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/gn/png/five-nights-at-freddys-4-halloween.png"
   },
   {
     "name": "Five Nights at Epstein's",
     "id": "fnae",
     "flash": false,
-    "img": "./img/games/fnae.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/fnae.png"
   },
   {
     "name": "Full Moon",
     "id": "flash/fullmoon",
     "flash": true,
-    "img": "./img/games/fullmoon_big2.jpg"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/jpg/fullmoon_big2.jpg"
   },
   {
     "name": "Getting Over It",
     "id": "getting-over-it",
     "flash": false,
-    "img": "./img/games/gettin.webp"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/gn/png/getting-over-it-with-bennett-foddy.png"
   },
   {
     "name": "Hollow Knight",
     "id": "hollow-knight",
     "flash": false,
-    "img": "./img/games/hollow.webp",
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/gn/png/hollow-knight.png",
     "url": "https://isaidknight.pages.dev"
   },
   {
     "name": "Hollow Knight: Silksong",
     "id": "hollow-knight-silksong",
     "flash": false,
-    "img": "./img/games/silksong.png",
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/gn/png/hollow-knight-silksong.png",
     "url": "https://isaidsilksong.pages.dev"
   },
   {
     "name": "Hotline Miami",
     "id": "hotlinemiami",
     "flash": false,
-    "img": "./img/games/hot.webp"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/gn/png/hotline-miami.png"
   },
   {
     "name": "Idleplex",
     "id": "flash/idleplex",
     "flash": true,
-    "img": "./img/games/idleplex.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/idleplex.png"
   },
   {
     "name": "Jelly Drift",
     "id": "jelly-drift",
     "flash": false,
-    "img": "./img/games/jelly.webp"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/gn/png/jelly-drift.png"
   },
   {
     "name": "Jelly Mario",
     "id": "jellymario",
     "flash": false,
-    "img": "./img/games/jmb.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/jmb.png"
   },
   {
     "name": "Karlson",
     "id": "karlson",
     "flash": false,
-    "img": "./img/games/karlson.webp"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/webp/karlson.webp"
   },
   {
     "name": "Kindergarten",
     "id": "kindergarten/1",
     "flash": false,
-    "img": "./img/games/kind1.webp"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/gn/png/kindergarten.png"
   },
   {
     "name": "Kindergarten 2",
     "id": "kindergarten/2",
     "flash": false,
-    "img": "./img/games/kind2.webp"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/gn/png/kindergarten-2.png"
   },
   {
     "name": "Kill the Ice Age Baby Adventure",
     "id": "ice-age",
     "flash": false,
-    "img": "./img/games/iceage1fixed.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/iceage1.png"
   },
   {
     "name": "Learn to Fly",
     "id": "flash/learn-to-fly",
     "flash": true,
-    "img": "./img/games/learntofly.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/learntofly.png"
   },
   {
     "name": "Learn to Fly 2",
     "id": "flash/learn-to-fly2",
     "flash": true,
-    "img": "./img/games/learntofly2.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/learntofly2.png"
   },
   {
     "name": "Learn to Fly 3",
     "id": "flash/learn-to-fly3",
     "flash": true,
-    "img": "./img/games/learntofly3.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/learntofly3.png"
   },
   {
     "name": "Maverick",
     "id": "flash/maverick",
     "flash": true,
-    "img": "./img/games/maverick.jpeg"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/jpeg/maverick.jpeg"
   },
   {
     "name": "Milkman Karlson",
     "id": "milkman-karlson",
     "flash": false,
-    "img": "./img/games/milk.webp"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/gn/png/karlson.png"
   },
   {
     "name": "Minecraft Pocket Edition",
     "id": "mcpe",
     "flash": false,
-    "img": "./img/games/mcpe.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/mcpe.png"
   },
   {
     "name": "No Time To Explain",
     "id": "flash/NoTimeToExplain",
     "flash": true,
-    "img": "./img/games/ntte.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/ntte.png"
   },
   {
     "name": "Press The Button",
     "id": "flash/press-the-button",
     "flash": true,
-    "img": "./img/games/press-the-button.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/press-the-button.png"
   },
   {
     "name": "People Playground",
     "id": "people-playground",
     "flash": false,
-    "img": "./img/games/peoplepg.webp"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/gn/png/people-playground-m.png"
   },
   {
     "name": "Pizza Tower",
     "id": "pizza-tower",
     "flash": false,
-    "img": "./img/games/pizzatower.webp"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/gn/png/pizza-tower.png"
   },
   {
     "name": "Plants vs Zombies",
     "id": "pvz",
     "flash": false,
-    "img": "./img/games/pvz.png",
-    "url": "https://isaidpvz.pages.dev"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/pvz.png"
   },
   {
     "name": "PVZ Fusion",
     "id": "pvz-fusion",
     "flash": false,
-    "img": "./img/games/pvz-fusion.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/pvz-fusion.png"
   },
   {
     "name": "R.E.P.O",
     "id": "repo",
     "flash": false,
-    "img": "./img/games/repo.webp"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/gn/png/repo.png"
   },
   {
     "name": "Raft",
     "id": "raft",
     "flash": false,
-    "img": "./img/games/raft.webp"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/gn/png/raft.png"
   },
   {
     "name": "RE:RUN",
     "id": "rerun",
     "flash": false,
-    "img": "./img/games/rerun.webp"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/gn/png/rerun.png"
   },
   {
     "name": "Super Mario 63",
     "id": "flash/sm63",
     "flash": true,
-    "img": "./img/games/super-mario63.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/super-mario63.png"
   },
   {
     "name": "Super Mario 64 FPS",
     "id": "sm64fps",
     "flash": false,
-    "img": "./img/games/sm64fps.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/sm64fps.png"
   },
   {
     "name": "Super Mario Crossover",
     "id": "flash/smb-crossover",
     "flash": true,
-    "img": "./img/games/sm-crossover.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/sm-crossover.png"
   },
   {
     "name": "Super Mario Crossover 2",
     "id": "flash/smb-crossover2",
     "flash": true,
-    "img": ""
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/gn/png/super-mario-63.png"
   },
   {
     "name": "Sonic.exe",
     "id": "sonic.exe",
     "flash": false,
-    "img": "./img/games/sonic.exe"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/sonic.exe.png"
   },
   {
     "name": "Sonic Robo Blast 2",
     "id": "srb2",
     "flash": false,
-    "img": "./img/games/srb2.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/srb2.png"
   },
   {
     "name": "Space is Key",
     "id": "flash/space-is-key",
     "flash": true,
-    "img": "./img/games/space-iskey.jpeg"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/jpeg/space-iskey.jpeg"
   },
   {
     "name": "Space is Key 2",
     "id": "flash/space-is-key2",
     "flash": true,
-    "img": "./img/games/space-iskey2.jpeg"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/jpeg/space-iskey2.jpeg"
   },
   {
     "name": "Space is Key Xmas",
     "id": "flash/space-is-key-xmas",
     "flash": true,
-    "img": "./img/games/space-iskey_xmas.jpeg"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/jpeg/space-iskey_xmas.jpeg"
   },
   {
     "name": "Sugar, Sugar",
     "id": "flash/sugar",
     "flash": true,
-    "img": "./img/games/sugar500.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/sugar500.png"
   },
   {
     "name": "Sugar, Sugar 2",
     "id": "flash/sugar2",
     "flash": true,
-    "img": "./img/games/sugar2-500.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/sugar2-500.png"
   },
   {
     "name": "Sugar, Sugar 3",
     "id": "flash/sugar3",
     "flash": true,
-    "img": "./img/games/sugar-sugar-3.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/sugar-sugar-3.png"
   },
   {
     "name": "Sugar, Sugar Xmas",
     "id": "flash/sugar-xmas",
     "flash": true,
-    "img": "./img/games/sugarxmas500.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/sugarxmas500.png"
   },
   {
     "name": "Super Smash Flash",
     "id": "flash/super-smash-flash",
     "flash": true,
-    "img": "./img/games/supersmash.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/supersmash.png"
   },
   {
     "name": "Super Ordinary Joe",
     "id": "super-ordinary-joe",
     "flash": false,
-    "img": "./img/games/ordinaryjoe.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/ordinaryjoe.png"
   },
   {
     "name": "Sushi Cat",
     "id": "flash/sushi-cat",
     "flash": true,
-    "img": "./img/games/sushicat.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/sushicat.png"
   },
   {
     "name": "Slime Ranchers",
     "id": "slime-ranchers",
     "flash": false,
-    "img": "./img/games/slime.webp"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/gn/png/slime-rancher.png"
   },
   {
     "name": "Syobon Action",
     "id": "open-syobon-action",
     "flash": false,
-    "img": "./img/games/syobon.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/syobon.png"
   },
   {
     "name": "Tattletail",
     "id": "tattletail",
     "flash": false,
-    "img": "./img/games/tat.webp"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/gn/png/tattletail.png"
   },
   {
     "name": "Terraria",
     "id": "terrarium",
     "flash": false,
-    "img": "./img/games/ter.webp"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/gn/png/terraria.png"
   },
   {
     "name": "This Is The Only Level",
     "id": "flash/titol",
     "flash": true,
-    "img": "./img/games/titol.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/titol.png"
   },
   {
     "name": "This Is The Only Level Too",
     "id": "flash/titol2",
     "flash": true,
-    "img": "./img/games/titol2-500.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/titol2-500.png"
   },
   {
     "name": "This Is The Only Level 3",
     "id": "flash/titol3",
     "flash": true,
-    "img": "./img/games/titol3.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/titol3.png"
   },
   {
     "name": "Traverse",
     "id": "traverse",
     "flash": false,
-    "img": "./img/Treverse.Large.png",
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/1.png",
     "url": "https://traverse-port.pages.dev"
   },
   {
     "name": "Treadmillasaurus Rex",
     "id": "flash/treadmillasaurus-rex",
     "flash": true,
-    "img": "./img/games/treadmillrex.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/treadmillrex.png"
   },
   {
     "name": "Tuper Tario Tros",
     "id": "flash/tuper-tario-tros",
     "flash": true,
-    "img": "./img/games/tuper-tario-tros-500.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/tuper-tario-tros-500.png"
   },
   {
     "name": "Ultrakill",
     "id": "ultrakill",
     "flash": false,
-    "img": "./img/games/ultra.webp"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/gn/png/ultrakill.png"
   },
   {
     "name": "Undertale",
     "id": "undertale",
     "flash": false,
-    "img": "./img/games/undertale.webp"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/undertale.png"
   },
   {
     "name": "Undertale Yellow",
     "id": "undertale-yellow",
     "flash": false,
-    "img": "./img/games/udy.webp"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/gn/png/undertale-yellow.png"
   },
   {
     "name": "Untitled Goose Game",
     "id": "untitledgg",
     "flash": false,
-    "img": "./img/games/untitled.webp"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/gn/png/untitled-goose-game.png"
   },
   {
     "name": "Raldi's Crackhouse",
     "id": "raldi",
     "flash": false,
-    "img": "./img/games/raldi.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/gn/png/raldis-crackhouse.png"
   },
   {
     "name": "Jeffrey Epstein's Basics In Education And Kidnapping",
     "id": "jeffbb",
     "flash": false,
-    "img": "./img/games/jeffbb.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/gn/png/jeffrey-epstein-basics.png"
   },
   {
     "name": "Webfishing",
     "id": "webfishing",
     "flash": false,
-    "img": "./img/games/web.webp",
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/gn/png/webfishing.png",
     "url": "https://isaidwebfishing.pages.dev"
   },
   {
     "name": "Upload Labs",
     "id": "upload-labs",
     "flash": false,
-    "img": "./img/games/uploadlabs.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/1.png"
   },
   {
     "name": "Greedy Mimic",
     "id": "greedymimic",
     "flash": false,
-    "img": "./img/games/greedy-mimic.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/1.png"
   },
   {
     "name": "Hasty Shaman",
     "id": "hasty-shaman",
     "flash": false,
-    "img": "./img/games/hasty-shaman.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/1.png"
   },
   {
     "name": "Choppy Orc",
     "id": "choppyorc",
     "flash": false,
-    "img": "./img/games/choppy-orc.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/gn/png/choppy-orc.png"
   },
   {
     "name": "Sleepy Knight",
     "id": "sleepy-knight",
     "flash": false,
-    "img": "./img/games/sleepy-knight.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/1.png"
   },
   {
     "name": "Sticky Sorcerer",
     "id": "sticky-sorcerer",
     "flash": false,
-    "img": "./img/games/sticky-sorcerer.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/1.png"
   },
   {
     "name": "Orcs Vs Elves",
     "id": "orcs-vs-elves",
     "flash": false,
-    "img": "./img/games/orcs-vs-elves.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/1.png"
   },
   {
     "name": "One Trick Mage",
     "id": "onetrickmage",
     "flash": false,
-    "img": "./img/games/one-trick-mage.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/1.png"
   },
   {
     "name": "Super Choppy Orc",
     "id": "super-choppy-orc",
     "flash": false,
-    "img": "./img/games/super-choppy-orc.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/gn/png/choppy-orc.png"
   },
   {
     "name": "Jellybots",
     "id": "jellybots",
     "flash": false,
-    "img": "./img/games/jelly-bots.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/1.png"
   },
   {
     "name": "Dozenbear",
     "id": "dozenbear",
     "flash": false,
-    "img": "./img/games/dozen-bear.png"
+    "img": "https://cdn.jsdelivr.net/gh/estrog3n/img@main/png/1.png"
   }
 ]
