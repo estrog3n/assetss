@@ -250,7 +250,7 @@
     "name": "Full Moon",
     "id": "flash/fullmoon",
     "flash": true,
-    "img": "jpg/fullmoon_big2.jpg"
+    "img": "png/fullmoon.png"
   },
   {
     "name": "Getting Over It",
