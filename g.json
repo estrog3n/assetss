@@ -414,7 +414,7 @@
     "name": "Super Mario 63",
     "id": "flash/sm63",
     "flash": true,
-    "img": "png/super-mario63.png"
+    "img": "gn/png/super-mario-63.png"
   },
   {
     "name": "Super Mario 64 FPS",
@@ -432,7 +432,7 @@
     "name": "Super Mario Crossover 2",
     "id": "flash/smb-crossover2",
     "flash": true,
-    "img": "gn/png/super-mario-63.png"
+    "img": ""
   },
   {
     "name": "Sonic.exe",
