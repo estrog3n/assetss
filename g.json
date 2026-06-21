@@ -21,19 +21,19 @@
     "name": "Achievement Unlocked 2",
     "id": "flash/achievement2",
     "flash": true,
-    "img": "gn/png/achievement-unlocked-2.png"
+    "img": "png/elephant.png"
   },
   {
     "name": "Achievement Unlocked 3",
     "id": "flash/achievement3",
     "flash": true,
-    "img": "gn/png/achievement-unlocked-3.png"
+    "img": "png/ach3.png"
   },
   {
     "name": "Bad Ice Cream",
     "id": "flash/bad-ice-cream",
     "flash": true,
-    "img": "gn/png/bad-ice-cream.png"
+    "img": "webp/badicecream.webp"
   },
   {
     "name": "Bad Game",
@@ -87,7 +87,7 @@
     "name": "Burrito Bison Revenge",
     "id": "flash/burrito-bison-revenge",
     "flash": true,
-    "img": "jpg/burrito-bison-revenge.jpg"
+    "img": "png/buritobisonrevenge.png"
   },
   {
     "name": "Celeste",
@@ -105,7 +105,7 @@
     "name": "Chuck the Sheep",
     "id": "flash/ChuckTheSheep",
     "flash": true,
-    "img": "jpeg/chuck-thesheep.jpeg"
+    "img": "png/chuck-thesheep500.png"
   },
   {
     "name": "Cuphead",
@@ -178,7 +178,7 @@
     "name": "Elephant Rave",
     "id": "flash/elephant-rave",
     "flash": true,
-    "img": "png/elephant-rave2.png"
+    "img": "png/elephant.png"
   },
   {
     "name": "Elephant Rave 2",
@@ -269,7 +269,7 @@
     "name": "Hollow Knight: Silksong",
     "id": "hollow-knight-silksong",
     "flash": false,
-    "img": "gn/png/hollow-knight-silksong.png",
+    "img": "png/silksong.png",
     "url": "https://isaidsilksong.pages.dev"
   },
   {
@@ -552,7 +552,7 @@
     "name": "Traverse",
     "id": "traverse",
     "flash": false,
-    "img": "png/1.png",
+    "img": "png/Treverse.Large.png",
     "url": "https://traverse-port.pages.dev"
   },
   {
@@ -595,7 +595,7 @@
     "name": "Raldi's Crackhouse",
     "id": "raldi",
     "flash": false,
-    "img": "gn/png/raldis-crackhouse.png"
+    "img": "png/raldi.png"
   },
   {
     "name": "Jeffrey Epstein's Basics In Education And Kidnapping",
@@ -614,66 +614,66 @@
     "name": "Upload Labs",
     "id": "upload-labs",
     "flash": false,
-    "img": "png/1.png"
+    "img": "png/uploadlabs.png"
   },
   {
     "name": "Greedy Mimic",
     "id": "greedymimic",
     "flash": false,
-    "img": "png/1.png"
+    "img": "png/greedy-mimic.png"
   },
   {
     "name": "Hasty Shaman",
     "id": "hasty-shaman",
     "flash": false,
-    "img": "png/1.png"
+    "img": "png/hasty-shaman.png"
   },
   {
     "name": "Choppy Orc",
     "id": "choppyorc",
     "flash": false,
-    "img": "gn/png/choppy-orc.png"
+    "img": "png/choppy-orc.png"
   },
   {
     "name": "Sleepy Knight",
     "id": "sleepy-knight",
     "flash": false,
-    "img": "png/1.png"
+    "img": "png/sleepy-knight.png"
   },
   {
     "name": "Sticky Sorcerer",
     "id": "sticky-sorcerer",
     "flash": false,
-    "img": "png/1.png"
+    "img": "png/sticky-sorcerer.png"
   },
   {
     "name": "Orcs Vs Elves",
     "id": "orcs-vs-elves",
     "flash": false,
-    "img": "png/1.png"
+    "img": "png/orcs-vs-elves.png"
   },
   {
     "name": "One Trick Mage",
     "id": "onetrickmage",
     "flash": false,
-    "img": "png/1.png"
+    "img": "png/one-trick-mage.png"
   },
   {
     "name": "Super Choppy Orc",
     "id": "super-choppy-orc",
     "flash": false,
-    "img": "gn/png/choppy-orc.png"
+    "img": "png/super-choppy-orc.png"
   },
   {
     "name": "Jellybots",
     "id": "jellybots",
     "flash": false,
-    "img": "png/1.png"
+    "img": "png/jelly-bots.png"
   },
   {
     "name": "Dozenbear",
     "id": "dozenbear",
     "flash": false,
-    "img": "png/1.png"
+    "img": "png/dozen-bear.png"
   }
 ]
