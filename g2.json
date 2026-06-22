@@ -182,13 +182,6 @@
     "description": ""
   },
   {
-    "name": "sonic.exe",
-    "slug": "sonic.exe",
-    "path": "sonic.exe/index.html",
-    "thumbnail": "png/sonic.exe.png",
-    "description": ""
-  },
-  {
     "name": "Speed Stars",
     "slug": "speed-stars",
     "path": "speed-stars/index.html",
@@ -228,13 +221,6 @@
     "slug": "yume-nikki",
     "path": "yume-nikki/index.html",
     "thumbnail": "gn/png/yume-nikki.png",
-    "description": ""
-  },
-  {
-    "name": "Plants vs Zombies: Fusion",
-    "slug": "pvz-fusion",
-    "path": "pvz-fusion/index.html",
-    "thumbnail": "png/pvz-fusion.png",
     "description": ""
   },
   {
@@ -278,13 +264,6 @@
     "slug": "mfr",
     "path": "mfr/index.html",
     "thumbnail": "../no.png",
-    "description": ""
-  },
-  {
-    "name": "Terraria 1.4.4",
-    "slug": "terraria",
-    "path": "terraria1.4.4/index.html",
-    "thumbnail": "webp/ter.webp",
     "description": ""
   },
   {
