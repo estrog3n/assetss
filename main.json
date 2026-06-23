@@ -13,5 +13,6 @@
    { "name": "9007199254740992", "id": "9007199254740992" },
   { "name": "A Dance of Fire And Ice (Web Demo)", "id": "a-dance-of-fire-and-ice", "img": "gn/png/a-dance-of-fire-and-ice.png"},
    { "name": "Karlson 2D", "id": "truffledkarlson2d", "img": "webp/karlson2d.webp" },
-   { "name": "Karlson (Demo)", "id": "karlson", "img": "gn/png/karlson.png" }
+   { "name": "Karlson (Demo)", "id": "karlson", "img": "gn/png/karlson.png" },
+   { "name": "One Potion Please!", "id": "onepotionplease" }
 ]
