@@ -9,5 +9,6 @@
   { "name": "chasing tails", "id": "chasingtails" },
   { "name": "beat b*nger", "id": "bb" },
   { "name": "s*x w h*tler", "id": "swh" },
-  { "name": "one potion please", "id": "onepotionplease" }
+  { "name": "one potion please", "id": "onepotionplease" },
+  { "name": "Anomalous Coffee Machine", id: "acm"}
 ]
