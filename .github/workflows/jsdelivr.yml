@@ -19,5 +19,7 @@ jobs:
             https://cdn.jsdelivr.net/gh/estrog3n/assetss@main/ports.json
             https://cdn.jsdelivr.net/gh/isaidgg5/json@main/g.json
             https://cdn.jsdelivr.net/gh/isaidgg5/json@latest/g.json
+            https://cdn.jsdelivr.net/gh/isaidgg5/bookish-pancake@main/lite.html
+            https://cdn.jsdelivr.net/gh/isaidgg5/bookish-pancake@latest/lite.html
             
           attempts: 3
