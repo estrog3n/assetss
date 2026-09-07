@@ -66,7 +66,8 @@
     "name": "Big Tower Tiny Square",
     "id": "btts",
     "flash": false,
-    "img": "jpg/btts.jpg"
+    "img": "jpg/btts.jpg",
+    "tags": ["html"]
   },
   {
     "name": "Binding of Isaac",
@@ -79,7 +80,8 @@
     "name": "Bitburner",
     "id": "bitburner",
     "flash": false,
-    "img": "png/bitburner.png"
+    "img": "png/bitburner.png",
+    "tags": ["html"]
   },
   {
     "name": "Bullet Bill 3",
@@ -135,13 +137,15 @@
     "name": "Cut The Rope",
     "id": "CutTheRope",
     "flash": false,
-    "img": "webp/cut1.webp"
+    "img": "webp/cut1.webp",
+    "tags": ["html"]
   },
   {
     "name": "Doom",
     "id": "doom",
     "flash": false,
-    "img": "webp/doom.webp"
+    "img": "webp/doom.webp",
+    "tags": ["port"]
   },
   {
     "name": "Deltarune",
@@ -182,19 +186,22 @@
     "name": "Eaglercraft 1.8",
     "id": "eagler1.8",
     "flash": false,
-    "img": "jpg/eagtek.jpg"
+    "img": "jpg/eagtek.jpg",
+    "tags": ["html"]
   },
   {
     "name": "Eaglercraft 1.12",
     "id": "eagler1.12",
     "flash": false,
-    "img": "jpg/eagtek.jpg"
+    "img": "jpg/eagtek.jpg",
+    "tags": ["html"]
   },
   {
     "name": "Eaglercraft 1.14",
     "id": "eagler1.14",
     "flash": false,
-    "img": "jpg/eagtek.jpg"
+    "img": "jpg/eagtek.jpg",
+    "tags": ["html"]
   },
   {
     "name": "Elephant Rave",
@@ -306,7 +313,8 @@
     "id": "hollow-knight-silksong",
     "flash": false,
     "img": "png/silksong.png",
-    "url": "https://isaidsilksong.pages.dev"
+    "url": "https://isaidsilksong.pages.dev",
+    "tags": ["port"]
   },
   {
     "name": "Hotline Miami",
@@ -333,7 +341,8 @@
     "name": "Jelly Mario",
     "id": "jellymario",
     "flash": false,
-    "img": "png/jmb.png"
+    "img": "png/jmb.png",
+    "tags": ["html"]
   },
   {
     "name": "Karlson",
@@ -360,7 +369,8 @@
     "name": "Kill the Ice Age Baby Adventure",
     "id": "ice-age",
     "flash": false,
-    "img": "webp/iceage.webp"
+    "img": "webp/iceage.webp",
+    "tags": ["port"]
   },
   {
     "name": "Learn to Fly",
@@ -464,7 +474,8 @@
     "name": "RE:RUN",
     "id": "rerun",
     "flash": false,
-    "img": "gn/png/rerun.png"
+    "img": "gn/png/rerun.png",
+    "tags": ["port"]
   },
   {
     "name": "Super Mario 63",
@@ -505,7 +516,8 @@
     "name": "Sonic Robo Blast 2",
     "id": "srb2",
     "flash": false,
-    "img": "png/srb2.png"
+    "img": "png/srb2.png",
+    "tags": ["port"]
   },
   {
     "name": "Space is Key",
@@ -567,7 +579,8 @@
     "name": "Super Ordinary Joe",
     "id": "super-ordinary-joe",
     "flash": false,
-    "img": "png/ordinaryjoe.png"
+    "img": "png/ordinaryjoe.png",
+    "tags": ["html"]
   },
   {
     "name": "Sushi Cat",
@@ -580,13 +593,15 @@
     "name": "Slime Ranchers",
     "id": "slime-ranchers",
     "flash": false,
-    "img": "gn/png/slime-rancher.png"
+    "img": "gn/png/slime-rancher.png",
+    "tags": ["html"]
   },
   {
     "name": "Syobon Action",
     "id": "open-syobon-action",
     "flash": false,
-    "img": "png/syobon.png"
+    "img": "png/syobon.png",
+    "tags": ["port"]
   },
   {
     "name": "Tattletail",
@@ -656,7 +671,8 @@
     "name": "Undertale",
     "id": "undertale",
     "flash": false,
-    "img": "webp/undertale.webp"
+    "img": "webp/undertale.webp",
+    "tags": ["port"]
   },
   {
     "name": "Undertale Yellow",
@@ -669,7 +685,8 @@
     "name": "Untitled Goose Game",
     "id": "untitledgg",
     "flash": false,
-    "img": "gn/png/untitled-goose-game.png"
+    "img": "gn/png/untitled-goose-game.png",
+    "tags": ["port"]
   },
   {
     "name": "Raldi's Crackhouse",
@@ -682,7 +699,8 @@
     "name": "Jeffrey Epstein's Basics In Education And Kidnapping",
     "id": "jeffbb",
     "flash": false,
-    "img": "gn/png/jeffrey-epstein-basics.png"
+    "img": "gn/png/jeffrey-epstein-basics.png",
+    "tags": ["port"]
   },
   {
     "name": "Webfishing",
@@ -696,7 +714,8 @@
     "name": "Upload Labs",
     "id": "upload-labs",
     "flash": false,
-    "img": "png/uploadlabs.png"
+    "img": "png/uploadlabs.png",
+    "tags": ["port"]
   },
   {
     "name": "Greedy Mimic",
@@ -751,7 +770,8 @@
     "name": "Super Choppy Orc",
     "id": "super-choppy-orc",
     "flash": false,
-    "img": "png/super-choppy-orc.png"
+    "img": "png/super-choppy-orc.png",
+    "tags": ["html"]
   },
   {
     "name": "Jellybots",
