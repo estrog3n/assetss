@@ -260,10 +260,9 @@
   },
   {
     "name": "Hollow Knight",
-    "id": "hollow-knight",
+    "id": "hk",
     "flash": false,
-    "img": "gn/png/hollow-knight.png",
-    "url": "https://isaidknight.pages.dev"
+    "img": "gn/png/hollow-knight.png"
   },
   {
     "name": "Hollow Knight: Silksong",
