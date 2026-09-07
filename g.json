@@ -594,7 +594,7 @@
     "id": "slime-ranchers",
     "flash": false,
     "img": "gn/png/slime-rancher.png",
-    "tags": ["html"]
+    "tags": ["port"]
   },
   {
     "name": "Syobon Action",
@@ -771,7 +771,7 @@
     "id": "super-choppy-orc",
     "flash": false,
     "img": "png/super-choppy-orc.png",
-    "tags": ["html"]
+    "tags": ["port"]
   },
   {
     "name": "Jellybots",
