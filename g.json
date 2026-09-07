@@ -242,31 +242,36 @@
     "name": "Five Nights at Freddy's",
     "id": "fnaf1",
     "flash": false,
-    "img": "jpeg/fnaf.jpeg"
+    "img": "jpeg/fnaf.jpeg",
+    "tags": ["port"]
   },
   {
     "name": "Five Nights at Freddy's 2",
     "id": "fnaf2",
     "flash": false,
-    "img": "gn/png/five-nights-at-freddys-2.png"
+    "img": "gn/png/five-nights-at-freddys-2.png",
+    "tags": ["port"]
   },
   {
     "name": "Five Nights at Freddy's 3",
     "id": "fnaf3",
     "flash": false,
-    "img": "webp/3f.webp"
+    "img": "webp/3f.webp",
+    "tags": ["port"]
   },
   {
     "name": "Five Nights at Freddy's 4",
     "id": "fnaf4",
     "flash": false,
-    "img": "gn/png/five-nights-at-freddys-4.png"
+    "img": "gn/png/five-nights-at-freddys-4.png",
+    "tags": ["port"]
   },
   {
     "name": "Five Nights at Freddy's 4 Halloween",
     "id": "fnaf4-halloween",
     "flash": false,
-    "img": "gn/png/five-nights-at-freddys-4-halloween.png"
+    "img": "gn/png/five-nights-at-freddys-4-halloween.png",
+    "tags": ["port"]
   },
   {
     "name": "Five Nights at Epstein's",
@@ -697,43 +702,50 @@
     "name": "Greedy Mimic",
     "id": "greedymimic",
     "flash": false,
-    "img": "png/greedy-mimic.png"
+    "img": "png/greedy-mimic.png",
+    "tags": ["html"]
   },
   {
     "name": "Hasty Shaman",
     "id": "hasty-shaman",
     "flash": false,
-    "img": "png/hasty-shaman.png"
+    "img": "png/hasty-shaman.png",
+    "tags": ["html"]
   },
   {
     "name": "Choppy Orc",
     "id": "choppyorc",
     "flash": false,
-    "img": "png/choppy-orc.png"
+    "img": "png/choppy-orc.png",
+    "tags": ["html"]
   },
   {
     "name": "Sleepy Knight",
     "id": "sleepy-knight",
     "flash": false,
-    "img": "png/sleepy-knight.png"
+    "img": "png/sleepy-knight.png",
+    "tags": ["html"]
   },
   {
     "name": "Sticky Sorcerer",
     "id": "sticky-sorcerer",
     "flash": false,
-    "img": "png/sticky-sorcerer.png"
+    "img": "png/sticky-sorcerer.png",
+    "tags": ["html"]
   },
   {
     "name": "Orcs Vs Elves",
     "id": "orcs-vs-elves",
     "flash": false,
-    "img": "png/orcs-vs-elves.png"
+    "img": "png/orcs-vs-elves.png",
+    "tags": ["html"]
   },
   {
     "name": "One Trick Mage",
     "id": "onetrickmage",
     "flash": false,
-    "img": "png/one-trick-mage.png"
+    "img": "png/one-trick-mage.png",
+    "tags": ["html"]
   },
   {
     "name": "Super Choppy Orc",
@@ -745,12 +757,14 @@
     "name": "Jellybots",
     "id": "jellybots",
     "flash": false,
-    "img": "png/jelly-bots.png"
+    "img": "png/jelly-bots.png",
+    "tags": ["html"]
   },
   {
     "name": "Dozenbear",
     "id": "dozenbear",
     "flash": false,
-    "img": "png/dozen-bear.png"
+    "img": "png/dozen-bear.png",
+    "tags": ["html"]
   }
 ]
