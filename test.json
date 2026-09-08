@@ -193,7 +193,7 @@
         "name":  "Basket Bros",
         "id":  "basketbros-io",
         "flash":  false,
-        "img":  "png/basket-bros.png",
+        "img":  "jpeg/basketbros.jpeg",
         "cdn":  "html",
         "tags":  [
                      "html"
