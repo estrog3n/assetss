@@ -921,16 +921,6 @@
                  ]
     },
     {
-        "name":  "Gacha Life",
-        "id":  "gachalife",
-        "flash":  false,
-        "img":  "webp/gachalife.webp",
-        "cdn":  "html",
-        "tags":  [
-                     "html"
-                 ]
-    },
-    {
         "name":  "Game Inside a Game",
         "id":  "game-inside",
         "flash":  false,
