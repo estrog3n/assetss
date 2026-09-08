@@ -672,16 +672,6 @@
     },
     {
         "name":  "Duck Life 4",
-        "id":  "ducklife4",
-        "flash":  false,
-        "img":  "jpg/Duck Life 4.jpg",
-        "cdn":  "html",
-        "tags":  [
-                     "html"
-                 ]
-    },
-    {
-        "name":  "Duck Life 4",
         "id":  "flash/duck-life4",
         "flash":  true,
         "img":  "jpg/Duck Life 4.jpg",
