@@ -123,7 +123,7 @@
         "name":  "Backrooms",
         "id":  "backrooms",
         "flash":  false,
-        "img":  "jpg/Backrooms.jpg",
+        "img":  "jpg/backrooms.jpg",
         "cdn":  "html",
         "tags":  [
                      "html"
@@ -1145,7 +1145,7 @@
         "name":  "Kill the Ice Age Baby Adventure",
         "id":  "iceagebaby",
         "flash":  false,
-        "img":  "png/iceage1.png",
+        "img":  "webp/iceage.webp",
         "cdn":  "html",
         "tags":  [
                      "html"
@@ -1155,7 +1155,7 @@
         "name":  "Kill the Ice Age Baby 2",
         "id":  "iceagebaby2",
         "flash":  false,
-        "img":  "png/iceage2.png",
+        "img":  "webp/iceage2.webp",
         "cdn":  "html",
         "tags":  [
                      "html"
@@ -1185,7 +1185,7 @@
         "name":  "Krunker",
         "id":  "krunker",
         "flash":  false,
-        "img":  "jpg/Krunker.jpg",
+        "img":  "jpg/krunker.jpg",
         "cdn":  "html",
         "tags":  [
                      "html"
