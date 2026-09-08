@@ -8,7 +8,7 @@
   { "name": "Achievement Unlocked 2", "id": "flash/achievement2", "flash": true, "img": "png/elephant.png", "cdn": "flash", "tags": ["flash"] },
   { "name": "Achievement Unlocked 3", "id": "flash/achievement3", "flash": true, "img": "png/ach3.png", "cdn": "flash", "tags": ["flash"] },
   { "name": "Adventure Drivers", "id": "adventure-drivers", "flash": false, "img": "gn/png/adventure-drivers.png", "cdn": "html", "tags": ["html"] },
-  { "name": "Ages of Conflict", "id": "ages-of-conflict", "flash": false, "img": "gn/png/ages-of-conflict.png", "cdn": "html", "tags": ["html"] },
+  { "name": "Ages of Conflict", "id": "ages-of-conflict", "flash": false, "img": "gn/png/ages-of-conflict.png", "cdn": "port", "tags": ["html"] },
   { "name": "Apes vs Helium", "id": "AVHPort", "flash": false, "img": "webp/avh.webp", "cdn": "port", "tags": ["port"] },
   { "name": "Awesome Tanks", "id": "awesometanks2", "flash": false, "img": "gn/png/awesome-tanks.png", "cdn": "html", "tags": ["html"] },
   { "name": "Backrooms", "id": "backrooms", "flash": false, "img": "jpg/backrooms.jpg", "cdn": "html", "tags": ["html"] },
