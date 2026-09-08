@@ -306,6 +306,7 @@
     "id": "hk",
     "flash": false,
     "img": "gn/png/hollow-knight.png",
+    "cdn": "port",
     "tags": ["port"]
   },
   {
