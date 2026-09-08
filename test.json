@@ -290,7 +290,7 @@
                  ]
     },
     {
-        "name":  "Blockpost - Unblocked Games Compilation",
+        "name":  "Blockpost",
         "id":  "blockpost",
         "flash":  false,
         "img":  "gn/png/blockpost.png",
@@ -300,13 +300,13 @@
                  ]
     },
     {
-        "name":  "bloontowerdefense4",
+        "name":  "Bloons TD 4",
         "id":  "btd4",
         "flash":  false,
         "img":  "jpg/btd4.jpg",
         "cdn":  "html",
         "tags":  [
-                     "html"
+                     "flash"
                  ]
     },
     {
@@ -420,7 +420,7 @@
                  ]
     },
     {
-        "name":  "chrome://dino/",
+        "name":  "Chrome Dino",
         "id":  "chromedino",
         "flash":  false,
         "img":  "jpg/Chrome Dino.jpg",
