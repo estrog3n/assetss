@@ -1,6 +1,5 @@
 [
   { "name": "10 Minutes Till Dawn", "id": "10-minutes-till-dawn", "flash": false, "img": "gn/png/10-minutes-till-dawn.png", "cdn": "html", "tags": ["html"] },
-  { "name": "1v1.LOL", "id": "1v1lol", "flash": false, "img": "gn/png/1v1-lol.png", "cdn": "html", "tags": ["html"] },
   { "name": "2048", "id": "2048", "flash": false, "img": "png/2048.png", "cdn": "html", "tags": ["html"] },
   { "name": "99 Balls Evo", "id": "99balls", "flash": false, "img": "png/99balls.png", "cdn": "html", "tags": ["html"] },
   { "name": "A Dance of Fire And Ice", "id": "a-dance-of-fire-and-ice", "flash": false, "img": "gn/png/a-dance-of-fire-and-ice.png", "cdn": "html", "tags": ["html"] },
