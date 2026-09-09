@@ -680,6 +680,16 @@
                      "flash"
                  ]
     },
+        {
+        "name":  "Duck Life 6: Space",
+        "id":  "ducklifespace",
+        "flash":  true,
+        "img":  "webp/ducklife6.webp",
+        "cdn":  "html",
+        "tags":  [
+                     "html"
+                 ]
+    },
     {
         "name":  "Eaglercraft 1.8",
         "id":  "eagler1.8",
