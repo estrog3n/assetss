@@ -683,7 +683,7 @@
      {
         "name":  "Duck Life 5: Treasure Hunt",
         "id":  "ducklifeth",
-        "flash":  true,
+        "flash":  false,
         "img":  "webp/duck5.webp",
         "cdn":  "html",
         "tags":  [
@@ -693,7 +693,7 @@
         {
         "name":  "Duck Life 6: Space",
         "id":  "ducklifespace",
-        "flash":  true,
+        "flash":  false,
         "img":  "webp/ducklife6.webp",
         "cdn":  "html",
         "tags":  [
