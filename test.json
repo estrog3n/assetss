@@ -49,6 +49,16 @@
                      "flash"
                  ]
     },
+     {
+        "name":  "Among Us",
+        "id":  "among-us",
+        "flash":  false,
+        "img":  "png/among-us.png",
+        "cdn":  "port",
+        "tags":  [
+                     "port"
+                 ]
+    },
     {
         "name":  "Achievement Unlocked",
         "id":  "flash/achievement",
