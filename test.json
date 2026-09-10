@@ -671,13 +671,22 @@
                  ]
     },
     {
-        "name":  "Duck Life 4",
+        "name":  "Duck Life 4 (Flash)",
         "id":  "flash/duck-life4",
         "flash":  true,
         "img":  "jpg/Duck Life 4.jpg",
-        "cdn":  "flash",
         "tags":  [
                      "flash"
+                 ]
+    },
+      {
+        "name":  "Duck Life 4 Classic",
+        "id":  "ducklife4",
+        "flash":  false,
+        "img":  "jpg/Duck Life 4.jpg",
+        "cdn":  "html",
+        "tags":  [
+                     "html"
                  ]
     },
      {
