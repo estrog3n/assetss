@@ -44,7 +44,7 @@
         "id":  "flash/abobos-big-adventure",
         "flash":  true,
         "img":  "jpeg/ab.jpeg",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -64,7 +64,7 @@
         "id":  "flash/achievement",
         "flash":  true,
         "img":  "jpg/Achievement Unlocked.jpg",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -74,7 +74,7 @@
         "id":  "flash/achievement2",
         "flash":  true,
         "img":  "png/elephant.png",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -84,7 +84,7 @@
         "id":  "flash/achievement3",
         "flash":  true,
         "img":  "png/ach3.png",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -164,7 +164,7 @@
         "id":  "flash/bad-ice-cream",
         "flash":  true,
         "img":  "gn/png/bad-ice-cream.png",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -264,7 +264,7 @@
         "id":  "flash/BindingOfIsaac",
         "flash":  true,
         "img":  "png/isaac.png",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -364,7 +364,7 @@
         "id":  "flash/bullet-bill3",
         "flash":  true,
         "img":  "png/bullet-bill3.png",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -374,7 +374,7 @@
         "id":  "flash/burrito-bison",
         "flash":  true,
         "img":  "webp/burrito.webp",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -384,7 +384,7 @@
         "id":  "flash/burrito-bison-revenge",
         "flash":  true,
         "img":  "png/buritobisonrevenge.png",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -444,7 +444,7 @@
         "id":  "flash/ChuckTheSheep",
         "flash":  true,
         "img":  "png/chuck-thesheep500.png",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -654,7 +654,7 @@
         "id":  "flash/duck-life",
         "flash":  true,
         "img":  "jpg/Duck Life.jpg",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -664,7 +664,7 @@
         "id":  "flash/duck-life2",
         "flash":  true,
         "img":  "jpg/Duck Life 2.jpg",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -674,7 +674,7 @@
         "id":  "flash/duck-life3",
         "flash":  true,
         "img":  "jpg/Duck Life 3.jpg",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -684,6 +684,7 @@
         "id":  "flash/duck-life4",
         "flash":  true,
         "img":  "jpg/Duck Life 4.jpg",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -773,7 +774,7 @@
         "id":  "flash/elephant-rave",
         "flash":  true,
         "img":  "png/elephant.png",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -783,7 +784,7 @@
         "id":  "flash/elephant-rave2",
         "flash":  true,
         "img":  "png/elephant-rave2.png",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -793,7 +794,7 @@
         "id":  "flash/epic-combo",
         "flash":  true,
         "img":  "png/epic-combo.png",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -803,7 +804,7 @@
         "id":  "flash/epic-combo-redux",
         "flash":  true,
         "img":  "jpeg/epic-combo-redux.jpeg",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -823,7 +824,7 @@
         "id":  "flash/factoryballs",
         "flash":  true,
         "img":  "png/factoryballs.png",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -843,7 +844,7 @@
         "id":  "flash/fancy-pants1",
         "flash":  true,
         "img":  "gn/png/fancy-pants-adventure.png",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -943,7 +944,7 @@
         "id":  "flash/fullmoon",
         "flash":  true,
         "img":  "png/fullmoon.png",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -1084,7 +1085,7 @@
         "id":  "flash/idleplex",
         "flash":  true,
         "img":  "png/idleplex.png",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -1204,7 +1205,7 @@
         "id":  "flash/learn-to-fly",
         "flash":  true,
         "img":  "jpg/Learn To Fly.jpg",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -1214,7 +1215,7 @@
         "id":  "flash/learn-to-fly2",
         "flash":  true,
         "img":  "png/learntofly2.png",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -1224,7 +1225,7 @@
         "id":  "flash/learn-to-fly3",
         "flash":  true,
         "img":  "png/learntofly3.png",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -1254,7 +1255,7 @@
         "id":  "flash/maverick",
         "flash":  true,
         "img":  "jpeg/maverick.jpeg",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -1354,7 +1355,7 @@
         "id":  "flash/NoTimeToExplain",
         "flash":  true,
         "img":  "png/ntte.png",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -1474,7 +1475,7 @@
         "id":  "flash/press-the-button",
         "flash":  true,
         "img":  "png/press-the-button.png",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -1694,7 +1695,7 @@
         "id":  "flash/space-is-key",
         "flash":  true,
         "img":  "jpeg/space-iskey.jpeg",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -1704,7 +1705,7 @@
         "id":  "flash/space-is-key2",
         "flash":  true,
         "img":  "jpeg/space-iskey2.jpeg",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -1714,7 +1715,7 @@
         "id":  "flash/space-is-key-xmas",
         "flash":  true,
         "img":  "jpeg/space-iskey_xmas.jpeg",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -1774,7 +1775,7 @@
         "id":  "flash/sugar",
         "flash":  true,
         "img":  "png/sugar500.png",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -1784,7 +1785,7 @@
         "id":  "flash/sugar2",
         "flash":  true,
         "img":  "png/sugar2-500.png",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -1794,7 +1795,7 @@
         "id":  "flash/sugar3",
         "flash":  true,
         "img":  "png/sugar-sugar-3.png",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -1804,7 +1805,7 @@
         "id":  "flash/sugar-xmas",
         "flash":  true,
         "img":  "png/sugarxmas500.png",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -1824,7 +1825,7 @@
         "id":  "flash/sm63",
         "flash":  true,
         "img":  "gn/png/super-mario-63.png",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -1854,7 +1855,7 @@
         "id":  "flash/smb-crossover",
         "flash":  true,
         "img":  "png/sm-crossover.png",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -1864,7 +1865,7 @@
         "id":  "flash/smb-crossover2",
         "flash":  true,
         "img":  "",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -1884,7 +1885,7 @@
         "id":  "flash/super-smash-flash",
         "flash":  true,
         "img":  "png/supersmash.png",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -1914,7 +1915,7 @@
         "id":  "flash/sushi-cat",
         "flash":  true,
         "img":  "png/sushicat.png",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -1974,7 +1975,7 @@
         "id":  "flash/titol",
         "flash":  true,
         "img":  "jpg/This Is The Only Level.jpg",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -1984,7 +1985,7 @@
         "id":  "flash/titol2",
         "flash":  true,
         "img":  "png/titol2-500.png",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -1994,7 +1995,7 @@
         "id":  "flash/titol3",
         "flash":  true,
         "img":  "png/titol3.png",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -2025,7 +2026,7 @@
         "id":  "flash/treadmillasaurus-rex",
         "flash":  true,
         "img":  "png/treadmillrex.png",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
@@ -2055,7 +2056,7 @@
         "id":  "flash/tuper-tario-tros",
         "flash":  true,
         "img":  "png/tuper-tario-tros-500.png",
-        "cdn":  "flash",
+        "cdn":  "main",
         "tags":  [
                      "flash"
                  ]
