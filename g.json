@@ -424,7 +424,7 @@
         "id":  "choppyorc",
         "flash":  false,
         "img":  "png/choppy-orc.png",
-        "cdn":  "html",
+        "cdn":  "main",
         "tags":  [
                      "html"
                  ]
@@ -604,7 +604,7 @@
         "id":  "dozenbear",
         "flash":  false,
         "img":  "png/dozen-bear.png",
-        "cdn":  "html",
+        "cdn":  "main",
         "tags":  [
                      "html"
                  ]
@@ -1014,7 +1014,7 @@
         "id":  "greedymimic",
         "flash":  false,
         "img":  "png/greedy-mimic.png",
-        "cdn":  "html",
+        "cdn":  "main",
         "tags":  [
                      "html"
                  ]
@@ -1024,7 +1024,7 @@
         "id":  "hasty-shaman",
         "flash":  false,
         "img":  "png/hasty-shaman.png",
-        "cdn":  "html",
+        "cdn":  "main",
         "tags":  [
                      "html"
                  ]
@@ -1125,7 +1125,7 @@
         "id":  "jellybots",
         "flash":  false,
         "img":  "png/jelly-bots.png",
-        "cdn":  "html",
+        "cdn":  "main",
         "tags":  [
                      "html"
                  ]
@@ -1365,7 +1365,7 @@
         "id":  "onetrickmage",
         "flash":  false,
         "img":  "png/one-trick-mage.png",
-        "cdn":  "html",
+        "cdn":  "main",
         "tags":  [
                      "html"
                  ]
@@ -1375,7 +1375,7 @@
         "id":  "orcs-vs-elves",
         "flash":  false,
         "img":  "png/orcs-vs-elves.png",
-        "cdn":  "html",
+        "cdn":  "main",
         "tags":  [
                      "html"
                  ]
@@ -1595,7 +1595,7 @@
         "id":  "sleepy-knight",
         "flash":  false,
         "img":  "png/sleepy-knight.png",
-        "cdn":  "html",
+        "cdn":  "main",
         "tags":  [
                      "html"
                  ]
@@ -1745,7 +1745,7 @@
         "id":  "sticky-sorcerer",
         "flash":  false,
         "img":  "png/sticky-sorcerer.png",
-        "cdn":  "html",
+        "cdn":  "main",
         "tags":  [
                      "html"
                  ]
