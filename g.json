@@ -990,7 +990,7 @@
                  ]
     },
     {
-        "name":  "Google",
+        "name":  "Google Snake",
         "id":  "google-snake",
         "flash":  false,
         "img":  "jpg/Google Snake.jpg",
