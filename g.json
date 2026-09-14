@@ -724,7 +724,7 @@
         "id":  "eagler1.8",
         "flash":  false,
         "img":  "jpg/eagtek.jpg",
-        "cdn":  "html",
+        "cdn":  "main",
         "tags":  [
                      "html"
                  ]
@@ -734,7 +734,7 @@
         "id":  "eagler1.12",
         "flash":  false,
         "img":  "jpg/eagtek.jpg",
-        "cdn":  "html",
+        "cdn":  "main",
         "tags":  [
                      "html"
                  ]
@@ -744,7 +744,7 @@
         "id":  "eagler1.14",
         "flash":  false,
         "img":  "jpg/eagtek.jpg",
-        "cdn":  "html",
+        "cdn":  "main",
         "tags":  [
                      "html"
                  ]
