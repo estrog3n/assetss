@@ -1831,16 +1831,6 @@
                  ]
     },
     {
-        "name":  "Super Mario 64",
-        "id":  "sm64",
-        "flash":  false,
-        "img":  "jpg/Super Mario 64.jpg",
-        "cdn":  "html",
-        "tags":  [
-                     "html"
-                 ]
-    },
-    {
         "name":  "Super Mario 64 FPS",
         "id":  "sm64fps",
         "flash":  false,
