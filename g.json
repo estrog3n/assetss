@@ -2224,7 +2224,7 @@
     },
        {
         "name":  "Lethal Company",
-        "id":  "lethal",
+        "id":  "lethalcompany",
         "flash":  false,
         "img":  "png/lethal-company.png",
         "cdn":  "port",
