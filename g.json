@@ -274,7 +274,7 @@
         "id":  "bitburner",
         "flash":  false,
         "img":  "png/bitburner.png",
-        "cdn":  "html",
+        "cdn":  "main",
         "tags":  [
                      "html"
                  ]
