@@ -234,7 +234,7 @@
         "id":  "bat-to-the-heavens",
         "flash":  false,
         "img":  "png/bat.png",
-        "cdn":  "port",
+        "cdn":  "main",
         "tags":  [
                      "port"
                  ]
@@ -594,7 +594,7 @@
         "id":  "doom",
         "flash":  false,
         "img":  "webp/doom.webp",
-        "cdn":  "port",
+        "cdn":  "main",
         "tags":  [
                      "port"
                  ]
@@ -864,7 +864,7 @@
         "id":  "fnaf1",
         "flash":  false,
         "img":  "jpeg/fnaf.jpeg",
-        "cdn":  "port",
+        "cdn":  "main",
         "tags":  [
                      "port"
                  ]
@@ -884,7 +884,7 @@
         "id":  "fnaf3",
         "flash":  false,
         "img":  "webp/3f.webp",
-        "cdn":  "port",
+        "cdn":  "main",
         "tags":  [
                      "port"
                  ]
@@ -894,7 +894,7 @@
         "id":  "fnaf4",
         "flash":  false,
         "img":  "gn/png/five-nights-at-freddys-4.png",
-        "cdn":  "port",
+        "cdn":  "main",
         "tags":  [
                      "port"
                  ]
@@ -904,7 +904,7 @@
         "id":  "fnaf4-halloween",
         "flash":  false,
         "img":  "gn/png/five-nights-at-freddys-4-halloween.png",
-        "cdn":  "port",
+        "cdn":  "main",
         "tags":  [
                      "port"
                  ]
@@ -1055,7 +1055,7 @@
         "id":  "hotlinemiami",
         "flash":  false,
         "img":  "gn/png/hotline-miami.png",
-        "cdn":  "port",
+        "cdn":  "main",
         "tags":  [
                      "port"
                  ]
@@ -1095,7 +1095,7 @@
         "id":  "jeffbb",
         "flash":  false,
         "img":  "gn/png/jeffrey-epstein-basics.png",
-        "cdn":  "port",
+        "cdn":  "main",
         "tags":  [
                      "port"
                  ]
@@ -1115,7 +1115,7 @@
         "id":  "jellymario",
         "flash":  false,
         "img":  "png/jmb.png",
-        "cdn":  "html",
+        "cdn":  "main",
         "tags":  [
                      "html"
                  ]
@@ -1155,7 +1155,7 @@
         "id":  "ice-age",
         "flash":  false,
         "img":  "webp/iceage.webp",
-        "cdn":  "port",
+        "cdn":  "main",
         "tags":  [
                      "port"
                  ]
@@ -1525,7 +1525,7 @@
         "id":  "rerun",
         "flash":  false,
         "img":  "gn/png/rerun.png",
-        "cdn":  "port",
+        "cdn":  "main",
         "tags":  [
                      "port"
                  ]
@@ -1665,7 +1665,7 @@
         "id":  "srb2",
         "flash":  false,
         "img":  "png/srb2.png",
-        "cdn":  "port",
+        "cdn":  "main",
         "tags":  [
                      "port"
                  ]
@@ -1815,7 +1815,7 @@
         "id":  "super-choppy-orc",
         "flash":  false,
         "img":  "png/super-choppy-orc.png",
-        "cdn":  "port",
+        "cdn":  "main",
         "tags":  [
                      "port"
                  ]
@@ -1865,7 +1865,7 @@
         "id":  "super-ordinary-joe",
         "flash":  false,
         "img":  "png/ordinaryjoe.png",
-        "cdn":  "html",
+        "cdn":  "main",
         "tags":  [
                      "html"
                  ]
@@ -1915,7 +1915,7 @@
         "id":  "open-syobon-action",
         "flash":  false,
         "img":  "png/syobon.png",
-        "cdn":  "port",
+        "cdn":  "main",
         "tags":  [
                      "port"
                  ]
@@ -1955,7 +1955,7 @@
         "id":  "terrarium",
         "flash":  false,
         "img":  "gn/png/terraria.png",
-        "cdn":  "port",
+        "cdn":  "main",
         "tags":  [
                      "port"
                  ]
@@ -2076,7 +2076,7 @@
         "id":  "undertale",
         "flash":  false,
         "img":  "webp/undertale.webp",
-        "cdn":  "port",
+        "cdn":  "main",
         "tags":  [
                      "port"
                  ]
@@ -2096,7 +2096,7 @@
         "id":  "untitledgg",
         "flash":  false,
         "img":  "gn/png/untitled-goose-game.png",
-        "cdn":  "port",
+        "cdn":  "main",
         "tags":  [
                      "port"
                  ]
@@ -2106,7 +2106,7 @@
         "id":  "upload-labs",
         "flash":  false,
         "img":  "png/uploadlabs.png",
-        "cdn":  "port",
+        "cdn":  "main",
         "tags":  [
                      "port"
                  ]
