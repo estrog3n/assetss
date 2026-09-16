@@ -960,11 +960,11 @@
                  ]
     },
     {
-        "name":  "Geometry Dash",
-        "id":  "geometrydash",
+        "name":  "Geometry Dash (Web Dashers)",
+        "id":  "webdashers",
         "flash":  false,
         "img":  "png/geometrydash.png",
-        "cdn":  "html",
+        "cdn":  "main",
         "tags":  [
                      "html"
                  ]
