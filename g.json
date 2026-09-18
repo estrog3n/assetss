@@ -2172,15 +2172,14 @@
                  ]
     },
     {
-        "name":  "Webfishing",
-        "id":  "webfishing",
+        "name":  "WEBFISHING",
+        "id":  "web-fishing",
         "flash":  false,
         "img":  "gn/png/webfishing.png",
         "cdn":  "port",
         "tags":  [
                      "port"
-                 ],
-        "url":  "https://isaidwebfishing.pages.dev"
+                 ]
     },
     {
         "name":  "Wordle",
