@@ -2240,5 +2240,15 @@
         "tags":  [
                      "port"
                  ]
+    },
+       {
+        "name":  "Omori",
+        "id":  "omori-fixed",
+        "flash":  false,
+        "img":  "gn/png/omori.png",
+        "cdn":  "port",
+        "tags":  [
+                     "port"
+                 ]
     }
 ]
