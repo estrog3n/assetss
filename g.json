@@ -2250,5 +2250,15 @@
         "tags":  [
                      "port"
                  ]
+    },
+         {
+        "name":  "In Stars & Time",
+        "id":  "in-stars-and-time",
+        "flash":  false,
+        "img":  "gn/png/in-stars-and-time.png",
+        "cdn":  "port",
+        "tags":  [
+                     "port"
+                 ]
     }
 ]
