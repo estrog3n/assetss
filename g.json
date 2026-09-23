@@ -260,7 +260,7 @@
                  ]
     },
     {
-        "name":  "Binding of Isaac",
+        "name":  "The Binding of Isaac",
         "id":  "flash/BindingOfIsaac",
         "flash":  true,
         "img":  "png/isaac.png",
@@ -2256,6 +2256,16 @@
         "id":  "in-stars-and-time",
         "flash":  false,
         "img":  "gn/png/in-stars-and-time.png",
+        "cdn":  "port",
+        "tags":  [
+                     "port"
+                 ]
+    },
+       {
+        "name":  "The Binding of Isaac: Repentance",
+        "id":  "boir",
+        "flash":  false,
+        "img":  "png/boir.png",
         "cdn":  "port",
         "tags":  [
                      "port"
