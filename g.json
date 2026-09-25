@@ -2295,7 +2295,7 @@
         "name":  "Spaceflight Simulator",
         "id":  "spaceflight-simulator",
         "flash":  false,
-        "img":  "png/gn/spaceflight-simulator.png",
+        "img":  "gn/png/spaceflight-simulator.png",
         "cdn":  "port",
         "tags":  [
                      "port"
