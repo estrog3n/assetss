@@ -2280,5 +2280,15 @@
         "tags":  [
                      "port"
                  ]
+    },
+      {
+        "name":  "Counter Strike 1.6",
+        "id":  "global-strike",
+        "flash":  false,
+        "img":  "png/cs1.6https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b1f444f5-ca6c-4df3-8c44-ec6e0276f5ac/d7f0049-a816d6ab-034c-4c2e-8091-82b8486000ea.png/v1/fill/w_512,h_512/counter_strike_1_6_icon_by_dudekpro_d7f0049-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mL2IxZjQ0NGY1LWNhNmMtNGRmMy04YzQ0LWVjNmUwMjc2ZjVhYy9kN2YwMDQ5LWE4MTZkNmFiLTAzNGMtNGMyZS04MDkxLTgyYjg0ODYwMDBlYS5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.hWBfvHO7SVogRu5fjo35OBe7HcUBIZHmJY__UEfrKkg.png",
+        "cdn":  "port",
+        "tags":  [
+                     "port"
+                 ]
     }
 ]
