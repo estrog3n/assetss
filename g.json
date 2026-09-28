@@ -2310,5 +2310,15 @@
         "tags":  [
                      "html"
                  ]
+    },
+      {
+        "name":  "Just One Boss",
+        "id":  "just-one-boss",
+        "flash":  false,
+        "img":  "png/just-one-boss.png",
+        "cdn":  "html",
+        "tags":  [
+                     "html"
+                 ]
     }
 ]
