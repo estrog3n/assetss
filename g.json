@@ -2310,5 +2310,15 @@
         "tags":  [
                      "html"
                  ]
+    },
+       {
+        "name":  "Drift Hunters",
+        "id":  "drift-hunters",
+        "flash":  false,
+        "img":  "png/drift-hunters.png",
+        "cdn":  "html",
+        "tags":  [
+                     "html"
+                 ]
     }
 ]
