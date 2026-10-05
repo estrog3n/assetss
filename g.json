@@ -640,16 +640,6 @@
                  ]
     },
     {
-        "name":  "Drift Hunters",
-        "id":  "drift-hunters",
-        "flash":  false,
-        "img":  "png/drift-hunters.png",
-        "cdn":  "html",
-        "tags":  [
-                     "html"
-                 ]
-    },
-    {
         "name":  "Duck Life",
         "id":  "flash/duck-life",
         "flash":  true,
