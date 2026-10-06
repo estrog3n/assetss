@@ -1621,16 +1621,6 @@
                  ]
     },
     {
-        "name":  "Smash Karts",
-        "id":  "smashkarts",
-        "flash":  false,
-        "img":  "png/smashkarts.png",
-        "cdn":  "html",
-        "tags":  [
-                     "html"
-                 ]
-    },
-    {
         "name":  "Soccer Random",
         "id":  "soccer-random",
         "flash":  false,
