@@ -1254,7 +1254,7 @@
         "name":  "Milkman Karlson",
         "id":  "milkman-karlson",
         "flash":  false,
-        "img":  "gn/png/karlson.png",
+        "img":  "webp/milk.webp",
         "cdn":  "port",
         "tags":  [
                      "port"
