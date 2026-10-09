@@ -864,7 +864,7 @@
         "id":  "fnaf2",
         "flash":  false,
         "img":  "gn/png/five-nights-at-freddys-2.png",
-        "cdn":  "port",
+        "cdn":  "main",
         "tags":  [
                      "port"
                  ]
