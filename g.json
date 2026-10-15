@@ -2340,5 +2340,15 @@
         "tags":  [
                      "port"
                  ]
+    },
+          {
+        "name":  "60 Seconds! Reatomized",
+        "id":  "60-seconds",
+        "flash":  false,
+        "img":  "gn/png/60-seconds.png",
+        "cdn":  "port",
+        "tags":  [
+                     "port"
+                 ]
     }
 ]
