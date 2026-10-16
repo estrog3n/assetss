@@ -2350,5 +2350,15 @@
         "tags":  [
                      "port"
                  ]
+    },
+          {
+        "name":  "Cup Heroes",
+        "id":  "cup-heroes",
+        "flash":  false,
+        "img":  "png/cup-heroes.png",
+        "cdn":  "html",
+        "tags":  [
+                     "html"
+                 ]
     }
 ]
