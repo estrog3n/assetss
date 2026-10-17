@@ -2,7 +2,7 @@
   { "name": "Celeste (Pico 8)", "id": "celeste", "file": "celeste.html", "img": "" },
    { "name": "Traverse", "id": "traverse"},
   { "name": "Five Nights at Epstein's", "id": "fnae", "img": "png/fnae.png"},
-  { "name": "Ultrakill Prelude", "id": "ultrakill", "img":"gn/png/ultrakill.png" },
+  { "name": "Ultrakill Prelude", "id": "ultrakill-prelude", "img":"gn/png/ultrakill.png" },
   { "name": "My Femboy Roommate", "id": "mfr" },
    { "name": "Chasing Tails ~ A Promise in the Show ~", "id": "chasingtails" },
      { "name": "Beat Banger", "id": "bb" },
