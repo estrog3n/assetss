@@ -950,13 +950,13 @@
                  ]
     },
     {
-        "name":  "Geometry Dash (Web Dashers)",
-        "id":  "webdashers",
+        "name":  "Geometry Dash",
+        "id":  "gd",
         "flash":  false,
         "img":  "png/geometrydash.png",
-        "cdn":  "main",
+        "cdn":  "port",
         "tags":  [
-                     "html"
+                     "port"
                  ]
     },
     {
