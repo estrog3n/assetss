@@ -2380,5 +2380,15 @@
         "tags":  [
                      "html"
                  ]
+    },
+       {
+        "name":  "Papa's Freezeria",
+        "id":  "papasfreezeria",
+        "flash":  false,
+        "img":  "webp/freeze.webp",
+        "cdn":  "html",
+        "tags":  [
+                     "html"
+                 ]
     }
 ]
