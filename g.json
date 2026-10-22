@@ -2390,5 +2390,15 @@
         "tags":  [
                      "html"
                  ]
+    },
+     {
+        "name":  "Survivor.io",
+        "id":  "survivor",
+        "flash":  false,
+        "img":  "gn/png/survivor.png",
+        "cdn":  "html",
+        "tags":  [
+                     "html"
+                 ]
     }
 ]
