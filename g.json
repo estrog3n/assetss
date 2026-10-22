@@ -521,7 +521,7 @@
     },
     {
         "name":  "Cut the Rope",
-        "id":  "CutTheRope",
+        "id":  "ctr-dx",
         "flash":  false,
         "img":  "jpg/Cut the Rope.jpg",
         "cdn":  "html",
