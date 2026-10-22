@@ -1544,7 +1544,7 @@
         "name":  "Rooftop Snipers",
         "id":  "rooftop-snipers",
         "flash":  false,
-        "img":  "jpg/Rooftop Snipers.jpg",
+        "img":  "webp/roof.webp",
         "cdn":  "html",
         "tags":  [
                      "html"
