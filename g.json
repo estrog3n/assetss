@@ -2360,5 +2360,15 @@
         "tags":  [
                      "html"
                  ]
+    },
+          {
+        "name":  "My Dictator Stalin Can't Be This Cute ?!",
+        "id":  "mdstalin",
+        "flash":  false,
+        "img":  "404c.png",
+        "cdn":  "port",
+        "tags":  [
+                     "port"
+                 ]
     }
 ]
