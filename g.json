@@ -2400,5 +2400,15 @@
         "tags":  [
                      "html"
                  ]
+    },
+      {
+        "name":  "Cut the Rope DX",
+        "id":  "ctr-dx",
+        "flash":  false,
+        "img":  "svg/ctrxdx.svg",
+        "cdn":  "html",
+        "tags":  [
+                     "html"
+                 ]
     }
 ]
