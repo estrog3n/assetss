@@ -2480,6 +2480,46 @@
         "tags":  [
                      "html"
                  ]
-    }
+    },
+                    {
+        "name":  "A Grim Chase",
+        "id":  "a-grim-chase",
+        "flash":  false,
+        "img":  "gif/a-grim-chase.gif",
+        "cdn":  "html",
+        "tags":  [
+                     "html"
+                 ]
+    },
+           {
+        "name":  "A Grim Granny",
+        "id":  "a-grim-granny",
+        "flash":  false,
+        "img":  "gif/a-grim-granny.gif",
+        "cdn":  "html",
+        "tags":  [
+                     "html"
+                 ]
+    },
+           {
+        "name":  "Bunnie's Carrot",
+        "id":  "bunnies-carrot",
+        "flash":  false,
+        "img":  "gif/bunnies-carrot.gif",
+        "cdn":  "html",
+        "tags":  [
+                     "html"
+                 ]
+    },
+           {
+        "name":  "A Grim Love Tale",
+        "id":  "a-grim-love-tale",
+        "flash":  false,
+        "img":  "gif/a-grim-love-tale.gif",
+        "cdn":  "html",
+        "tags":  [
+                     "html"
+                 ]
+    },
     
 ]
