@@ -2530,6 +2530,16 @@
         "tags":  [
                      "html"
                  ]
+    },
+       {
+        "name":  "Brain Diet",
+        "id":  "brain-diet",
+        "flash":  false,
+        "img":  "png/brain-diet.png",
+        "cdn":  "html",
+        "tags":  [
+                     "html"
+                 ]
     }
     
 ]
