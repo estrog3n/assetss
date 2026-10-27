@@ -2450,6 +2450,16 @@
         "tags":  [
                      "port"
                  ]
+    },
+                {
+        "name":  "Rookie Bowman",
+        "id":  "rookie-bowman",
+        "flash":  false,
+        "img":  "jpeg/rookie-bowman.jpeg",
+        "cdn":  "html",
+        "tags":  [
+                     "html"
+                 ]
     }
     
 ]
