@@ -1344,7 +1344,7 @@
         "name":  "No Time To Explain",
         "id":  "flash/NoTimeToExplain",
         "flash":  true,
-        "img":  "png/ntte.png",
+        "img":  "jpg/notte.png",
         "cdn":  "main",
         "tags":  [
                      "flash"
@@ -2540,6 +2540,16 @@
         "tags":  [
                      "html"
                  ]
-    }
+    },
+     {
+        "name":  "No Time To Explain Remastered",
+        "id":  "notter",
+        "flash":  true,
+        "img":  "png/notter.png",
+        "cdn":  "port",
+        "tags":  [
+                     "port"
+                 ]
+    },
     
 ]
