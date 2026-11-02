@@ -1344,7 +1344,7 @@
         "name":  "No Time To Explain",
         "id":  "flash/NoTimeToExplain",
         "flash":  true,
-        "img":  "jpg/notte.png",
+        "img":  "jpg/notte.jpg",
         "cdn":  "main",
         "tags":  [
                      "flash"
