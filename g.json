@@ -2560,6 +2560,16 @@
         "tags":  [
                      "port"
                  ]
+    },
+    {
+        "name":  "Cut the Rope Halloween",
+        "id":  "ctr-halloween",
+        "flash":  false,
+        "img":  "png/ctr-halloween.png",
+        "cdn":  "html",
+        "tags":  [
+                     "html"
+                 ]
     }
     
 ]
