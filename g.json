@@ -2161,16 +2161,6 @@
                      "html"
                  ]
     },
-    {
-        "name":  "Zombs Royale",
-        "id":  "zombs-royale",
-        "flash":  false,
-        "img":  "jpg/Zombs Royale.jpg",
-        "cdn":  "html",
-        "tags":  [
-                     "html"
-                 ]
-    },
      {
         "name":  "Crashout Crew",
         "id":  "crashout-crew/WebGL",
