@@ -2560,6 +2560,16 @@
         "tags":  [
                      "html"
                  ]
-    }
+    },
+     {
+        "name":  "Awesome Tanks",
+        "id":  "awesometanks",
+        "flash":  false,
+        "img":  "gn/png/awesome-tanks.png",
+        "cdn":  "html",
+        "tags":  [
+                     "html"
+                 ]
+    },
     
 ]
