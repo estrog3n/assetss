@@ -2604,7 +2604,7 @@
         "name":  "Leaf Blower Revolution - Idle Game",
         "id":  "leafblowerrevolution",
         "flash":  false,
-        "img":  "jpg/leafblower.jpgleafblowerrevolution",
+        "img":  "jpg/leafblower.jpg",
         "cdn":  "port",
         "tags":  [
                      "port"
