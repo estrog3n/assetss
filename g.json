@@ -2924,7 +2924,7 @@
         "name":  "Plants vs Zombies 2 Gardenless",
         "id":  "pvzg",
         "flash":  false,
-        "img":  "pn/png/pvz2g.png",
+        "img":  "gn/png/pvz2g.png",
         "cdn":  "html",
         "tags":  [
                      "html"
