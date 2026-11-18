@@ -2939,6 +2939,16 @@
         "tags":  [
                      "port"
                  ]
+    },
+    {
+        "name":  "Cut the Rope Community Package",
+        "id":  "ctr-community",
+        "flash":  false,
+        "img":  "svg/community_package.svg",
+        "cdn":  "html",
+        "tags":  [
+                     "html"
+                 ]
     }
     
 ]
