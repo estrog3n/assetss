@@ -2929,5 +2929,16 @@
         "tags":  [
                      "html"
                  ]
+    },
+        {
+        "name":  "The Stanley Parable: Ultra Deluxe",
+        "id":  "stanley-pd",
+        "flash":  false,
+        "img":  "png/tspud.png",
+        "cdn":  "port",
+        "tags":  [
+                     "port"
+                 ]
     }
+    
 ]
